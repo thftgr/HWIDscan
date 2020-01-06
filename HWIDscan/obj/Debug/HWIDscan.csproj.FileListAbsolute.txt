@@ -1,0 +1,9 @@
+D:\GitHub\HWIDscan\HWIDscan\bin\Debug\HWIDscan.exe.config
+D:\GitHub\HWIDscan\HWIDscan\bin\Debug\HWIDscan.exe
+D:\GitHub\HWIDscan\HWIDscan\bin\Debug\HWIDscan.pdb
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.csprojAssemblyReference.cache
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.Properties.Resources.resources
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.csproj.GenerateResource.cache
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.exe
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.pdb
+D:\GitHub\HWIDscan\HWIDscan\obj\Debug\HWIDscan.Form1.resources
